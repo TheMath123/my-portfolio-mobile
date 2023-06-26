@@ -10,7 +10,7 @@ function App() {
     if (!isMobile) {
       setIsPC(!isMobile);
 
-      redirectTo("https://matheuspa.me/");
+      redirectTo("https://matheuspa.com/");
     }
     return;
   }, []);
